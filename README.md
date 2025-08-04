@@ -77,5 +77,3 @@ Confira abaixo duas capturas de tela do sistema:
 
 - 🌐 **Instagram**: [@pabloalmeida.dev](https://www.instagram.com/pabloalmeida.dev/)  
 - 💬 **WhatsApp**: [Converse comigo pelo WhatsApp](https://wa.me/5521997385724) (+55 21 99738-5724)  
-   git clone https://github.com/seu-usuario/raspadinhas-premiada.git
-   cd raspadinhas-premiada
